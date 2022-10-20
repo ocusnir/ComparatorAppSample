@@ -19,14 +19,14 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:hint="@string/FirstNumber"
-            android:inputType="text" />
+            android:inputType="number" />
 
         <EditText
             android:id="@+id/SecondNumber"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:hint="@string/SecondNumber"
-            android:inputType="text" />
+            android:inputType="number" />
 
         <Button
             android:id="@+id/Compare_Button"
