@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ComparatorAppSample</string>
+
+    <string name="FirstNumber">First Number</string>
+    <string name="SecondNumber">Second Number</string>
+
+
+    <string name="Button_Compare">Compare</string>
+    <string name="positive_answer">Equal!</string>
+    <string name="negative_answer">Not Equal!</string>
+
+
+
+</resources>
